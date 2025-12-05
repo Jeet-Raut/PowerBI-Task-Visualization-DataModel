@@ -30,7 +30,7 @@ The task focused on creating a clean data model and building a dashboard with in
 ## 📈 Key Features
 
 - 🧹 Data transformation with Power Query  
-- 🌟 Star schema modeling for optimized reporting  
+- 🌟 Star schema modeling for optimized reporting
 - 📊 KPI Cards for key business metrics  
 - 📉 Trend analysis by time dimension  
 - 🧭 Slicers for dynamic filtering  
