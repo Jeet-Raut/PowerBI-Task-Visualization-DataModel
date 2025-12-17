@@ -5,7 +5,7 @@ The task focused on creating a clean data model and building a dashboard with in
 
 ## 🧠 Project Overview
 
-- **Internship:** InfoOrigin (Data Engineering Intern)  
+- **Internship:** InfoOrigin (Data Engineering Intern) 
 - **Task:** Power BI – Data Modeling & Visualization
 - **Author:** Jeetu Raut  
 - **Tool Used:** Power BI Desktop (.pbix)  
