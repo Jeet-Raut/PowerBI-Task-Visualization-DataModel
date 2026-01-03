@@ -1,4 +1,4 @@
-# 📊 Power BI Task – Data Modeling & Visualization (InfoOrigin Internship)
+# 📊 Power BI Task – Data Modeling & Visualization (InfoOrigin Internship) 
 
 This repository contains one of my Power BI projects developed during the **InfoOrigin Data Engineering Internship**.  
 The task focused on creating a clean data model and building a dashboard with interactive visualizations to provide actionable insights.
